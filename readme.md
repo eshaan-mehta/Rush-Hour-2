@@ -1,4 +1,4 @@
-Welcome to my Final Project Mr. Kwan. The following will provide an overview of how to navigate the program and how to use all the features.
+Welcome to my Final Project for ICS4U0. The following will provide an overview of how to navigate the program and how to use all the features.
 
 <1> Inside the levels folder, you will find the layout for all 5 levels in their corresponding text file. You will also find the solutions file which has the exact level solutions if you ever get stuck on a level and don't want to spend too much time on it. It uses a specific notation which is explained in the file.
 
@@ -14,7 +14,7 @@ Welcome to my Final Project Mr. Kwan. The following will provide an overview of 
 
 <7> Once you have completed all the levels, you will be brought to the final screen where you can either go back to the main menu or exit the program.
 
-Credits to Aaron for helping me playtest and bugfix the game.
+Credits to Aaron Paglialunga for helping me playtest and bugfix the game.
 
 I hope you enjoy your experience playing my game!
 
