@@ -1,0 +1,19 @@
+**Solutions to each level**
+
+Notation: (car, direction(Up, Down, Left, Right), # of tiles)
+
+
+Level 1:
+eR1, gU1, hU1, jL2, bL3, cD2, fD3, rR4 
+
+Level 2:
+rR1, kD1, oL3, yU1, pU2, bL1, xD2, rR4
+
+Level 3:
+uU2, qU3, lR3, yU1, kL2, uD3, rR1, yU3, rL1, uU3, lL3, uD3, qD3, rR4
+
+Level 4:
+zD3, rL1, xU3, rR1, zU3, tL3, iL2, gD3, rR4
+
+Level 5:
+mR1, kU1, pL1, uL3, fL3, oD3, cD2, gD1, rR4
